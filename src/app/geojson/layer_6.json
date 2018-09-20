@@ -1,0 +1,970 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "24995", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.72793571116911, 4.267596823425528, 0.0 ], [ -20.467835690142081, 4.267596823425528, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "24996", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.417035690756009, 4.242196823732492, 0.0 ], [ -19.642335700118409, 4.242196823732492, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "24998", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -17.807185722296559, 4.216796824039456, 0.0 ], [ -21.388585679014639, 4.216796824039456, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2499C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.467835690142081, 4.19139682434642, 0.0 ], [ -21.388585679014639, 4.19139682434642, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2499E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.417035690756009, 4.165996824653384, 0.0 ], [ -20.417035690756009, 4.267596823425528, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "249A4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.72793571116911, 4.19139682434642, 0.0 ], [ -17.807185722296559, 4.19139682434642, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "249A5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.778735710555178, 4.242196823732492, 0.0 ], [ -19.553435701192779, 4.242196823732492, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "249A6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -19.553435701192779, 4.216796824039456, 0.0 ], [ -19.553435701192779, 4.267596823425528, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "249A7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -19.597885700655599, 4.216796824039456, 0.0 ], [ -19.597885700655599, 4.267596823425528, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "249A8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -19.642335700118409, 4.216796824039456, 0.0 ], [ -19.642335700118409, 4.267596823425528, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "249A9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.778735710555178, 4.165996824653384, 0.0 ], [ -18.778735710555178, 4.267596823425528, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C2D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 33.109157800710122, -8.099643067318627, 0.0 ], [ 29.604116244933071, -8.099643067318627, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C2E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.501619309972948, -8.078400391223029, 0.0 ], [ 31.319462339654269, -8.078400391223029, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C2F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.25414008786143, -8.057157715127383, 0.0 ], [ 30.45913395778166, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C30", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.45913395778166, -8.120885743414272, 0.0 ], [ 29.604116244933071, -8.120885743414272, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C31", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.501619309972948, -8.142128419509868, 0.0 ], [ 30.501619309972948, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C32", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 31.319462339654269, -8.099643067318627, 0.0 ], [ 31.319462339654269, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C33", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 33.109157800710122, -8.057157715127383, 0.0 ], [ 33.279099209475078, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C38", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.21165473567023, -8.142128419509868, 0.0 ], [ 34.17660227451497, -8.142128419509868, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C39", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.25414008786143, -8.120885743414272, 0.0 ], [ 33.109157800710122, -8.120885743414272, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C3A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.21165473567023, -8.078400391223029, 0.0 ], [ 31.393811705988909, -8.078400391223029, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C3B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.21165473567023, -8.142128419509868, 0.0 ], [ 32.21165473567023, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C3C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 31.393811705988909, -8.099643067318627, 0.0 ], [ 31.393811705988909, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C3D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 31.356637022821548, -8.099643067318627, 0.0 ], [ 31.356637022821548, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25C45", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 29.56163089274196, -8.142128419509824, 0.0 ], [ 30.501619309972948, -8.142128419509868, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E0A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.886637700212262, -8.078400391223029, 0.0 ], [ 35.068794670530941, -8.078400391223029, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E0B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.886637700212262, -8.142128419509868, 0.0 ], [ 36.826626117443247, -8.142128419509824, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E0C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.929123052403448, -8.120885743414272, 0.0 ], [ 36.78414076525214, -8.120885743414272, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E0D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.886637700212262, -8.142128419509868, 0.0 ], [ 35.886637700212262, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E0E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.068794670530941, -8.099643067318627, 0.0 ], [ 35.068794670530941, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E0F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 33.1941285050926, -8.142128419509868, 0.0 ], [ 33.1941285050926, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E14", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 36.78414076525214, -8.099643067318627, 0.0 ], [ 33.279099209475078, -8.099643067318627, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E15", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.134116922323692, -8.120885743414272, 0.0 ], [ 33.279099209475078, -8.120885743414272, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E16", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.17660227451497, -8.078400391223029, 0.0 ], [ 34.994445304196297, -8.078400391223029, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E17", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.929123052403448, -8.057157715127383, 0.0 ], [ 34.134116922323692, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E18", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.17660227451497, -8.142128419509868, 0.0 ], [ 34.17660227451497, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E19", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.994445304196297, -8.099643067318627, 0.0 ], [ 34.994445304196297, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E1A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.03161998736357, -8.099643067318627, 0.0 ], [ 35.03161998736357, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E22", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 33.109157800710122, -1.975663453828173, 0.0 ], [ 29.604116244933071, -1.975663453828173, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E23", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.501619309972948, -1.954420777732529, 0.0 ], [ 31.319462339654269, -1.954420777732529, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E24", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.25414008786143, -1.933178101636884, 0.0 ], [ 30.45913395778166, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E25", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.45913395778166, -1.996906129923772, 0.0 ], [ 29.604116244933071, -1.996906129923772, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E26", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.501619309972948, -2.01814880601937, 0.0 ], [ 30.501619309972948, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E27", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 31.319462339654269, -1.975663453828173, 0.0 ], [ 31.319462339654269, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E28", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 33.109157800710122, -1.933178101636884, 0.0 ], [ 33.279099209475078, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E2D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.21165473567023, -2.01814880601937, 0.0 ], [ 34.17660227451497, -2.01814880601937, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E2E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.25414008786143, -1.996906129923772, 0.0 ], [ 33.109157800710122, -1.996906129923772, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E2F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.21165473567023, -1.954420777732529, 0.0 ], [ 31.393811705988909, -1.954420777732529, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E30", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.21165473567023, -2.01814880601937, 0.0 ], [ 32.21165473567023, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E31", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 31.393811705988909, -1.975663453828173, 0.0 ], [ 31.393811705988909, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E32", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 31.356637022821548, -1.975663453828173, 0.0 ], [ 31.356637022821548, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E38", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 29.56163089274196, -2.018148806019324, 0.0 ], [ 30.501619309972948, -2.01814880601937, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E39", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.886637700212262, -1.954420777732529, 0.0 ], [ 35.068794670530941, -1.954420777732529, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E3A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.886637700212262, -2.01814880601937, 0.0 ], [ 36.826626117443247, -2.018148806019324, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E3B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.929123052403448, -1.996906129923772, 0.0 ], [ 36.78414076525214, -1.996906129923772, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E3C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.886637700212262, -2.01814880601937, 0.0 ], [ 35.886637700212262, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E3D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.068794670530941, -1.975663453828173, 0.0 ], [ 35.068794670530941, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E3E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 33.1941285050926, -2.01814880601937, 0.0 ], [ 33.1941285050926, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E42", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 36.78414076525214, -1.975663453828173, 0.0 ], [ 33.279099209475078, -1.975663453828173, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E43", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.134116922323692, -1.996906129923772, 0.0 ], [ 33.279099209475078, -1.996906129923772, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E44", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.17660227451497, -1.954420777732529, 0.0 ], [ 34.994445304196297, -1.954420777732529, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E45", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.929123052403448, -1.933178101636884, 0.0 ], [ 34.134116922323692, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E46", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.17660227451497, -2.01814880601937, 0.0 ], [ 34.17660227451497, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E47", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.994445304196297, -1.975663453828173, 0.0 ], [ 34.994445304196297, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "25E48", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.03161998736357, -1.975663453828173, 0.0 ], [ 35.03161998736357, -1.933178101636884, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26012", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.109408284464209, -8.099643067318627, 0.0 ], [ 80.356887506575731, -8.099643067318627, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26013", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.254390571615616, -8.078400391223029, 0.0 ], [ 82.072233601296844, -8.078400391223029, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26014", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.109408284464209, -8.057157715127383, 0.0 ], [ 81.211905219424324, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26015", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.211905219424324, -8.120885743414272, 0.0 ], [ 80.356887506575731, -8.120885743414272, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26016", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.254390571615616, -8.142128419509868, 0.0 ], [ 81.254390571615616, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26017", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.072233601296844, -8.099643067318627, 0.0 ], [ 82.072233601296844, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26018", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.861929062352786, -8.057157715127383, 0.0 ], [ 84.031870471117657, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2601D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.109408284464209, -8.099643067318627, 0.0 ], [ 83.861929062352786, -8.099643067318627, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2601E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.964425997312915, -8.142128419509868, 0.0 ], [ 84.929373536157541, -8.142128419509868, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2601F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.006911349504094, -8.120885743414272, 0.0 ], [ 83.861929062352786, -8.120885743414272, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26020", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.964425997312915, -8.078400391223029, 0.0 ], [ 82.146582967631574, -8.078400391223029, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26021", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.109408284464209, -8.057157715127383, 0.0 ], [ 83.006911349504094, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26022", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.964425997312915, -8.142128419509868, 0.0 ], [ 82.964425997312915, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26023", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.146582967631574, -8.099643067318627, 0.0 ], [ 82.146582967631574, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26024", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.109408284464209, -8.099643067318627, 0.0 ], [ 82.109408284464209, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2602C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 80.314402154384624, -8.142128419509824, 0.0 ], [ 81.254390571615616, -8.142128419509868, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2602D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.639408961854826, -8.078400391223029, 0.0 ], [ 85.821565932173598, -8.078400391223029, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2602E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.639408961854826, -8.142128419509868, 0.0 ], [ 87.579397379085819, -8.142128419509824, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2602F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.681894314046104, -8.120885743414272, 0.0 ], [ 87.536912026894726, -8.120885743414272, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26030", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.639408961854826, -8.142128419509868, 0.0 ], [ 86.639408961854826, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26031", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 85.821565932173598, -8.099643067318627, 0.0 ], [ 85.821565932173598, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26032", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.946899766735271, -8.142128419509868, 0.0 ], [ 83.946899766735271, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26037", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 87.536912026894726, -8.099643067318627, 0.0 ], [ 84.031870471117657, -8.099643067318627, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26038", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.886888183966349, -8.120885743414272, 0.0 ], [ 84.031870471117657, -8.120885743414272, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26039", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.929373536157541, -8.078400391223029, 0.0 ], [ 85.747216565838869, -8.078400391223029, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2603A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.681894314046104, -8.057157715127383, 0.0 ], [ 84.886888183966349, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2603B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.929373536157541, -8.142128419509868, 0.0 ], [ 84.929373536157541, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2603C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 85.747216565838869, -8.099643067318627, 0.0 ], [ 85.747216565838869, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2603D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 85.784391249006234, -8.099643067318627, 0.0 ], [ 85.784391249006234, -8.057157715127383, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26045", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.109408284464209, -1.970305641392923, 0.0 ], [ 80.356887506575731, -1.970305641392923, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26046", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.254390571615616, -1.949062965297279, 0.0 ], [ 82.072233601296844, -1.949062965297279, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26047", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.109408284464209, -1.927820289201634, 0.0 ], [ 81.211905219424324, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26048", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.211905219424324, -1.991548317488522, 0.0 ], [ 80.356887506575731, -1.991548317488522, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26049", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.254390571615616, -2.01279099358412, 0.0 ], [ 81.254390571615616, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2604A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.861929062352786, -1.927820289201634, 0.0 ], [ 84.031870471117657, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2604F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.109408284464209, -1.970305641392923, 0.0 ], [ 83.861929062352786, -1.970305641392923, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26050", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.964425997312915, -2.01279099358412, 0.0 ], [ 84.929373536157541, -2.01279099358412, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26051", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.006911349504094, -1.991548317488522, 0.0 ], [ 83.861929062352786, -1.991548317488522, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26052", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.964425997312915, -1.949062965297279, 0.0 ], [ 82.146582967631574, -1.949062965297279, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26053", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.109408284464209, -1.927820289201634, 0.0 ], [ 83.006911349504094, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26054", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.964425997312915, -2.01279099358412, 0.0 ], [ 82.964425997312915, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2605A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 80.314402154384624, -2.012790993584074, 0.0 ], [ 81.254390571615616, -2.01279099358412, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2605B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.639408961854826, -1.949062965297279, 0.0 ], [ 85.821565932173598, -1.949062965297279, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2605C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.639408961854826, -2.01279099358412, 0.0 ], [ 87.579397379085819, -2.012790993584074, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2605D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.681894314046104, -1.991548317488522, 0.0 ], [ 87.536912026894726, -1.991548317488522, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2605E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.639408961854826, -2.01279099358412, 0.0 ], [ 86.639408961854826, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2605F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 85.821565932173598, -1.970305641392923, 0.0 ], [ 85.821565932173598, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26060", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.946899766735271, -2.01279099358412, 0.0 ], [ 83.946899766735271, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26065", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 87.536912026894726, -1.970305641392923, 0.0 ], [ 84.031870471117657, -1.970305641392923, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26066", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.886888183966349, -1.991548317488522, 0.0 ], [ 84.031870471117657, -1.991548317488522, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26067", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.929373536157541, -1.949062965297279, 0.0 ], [ 85.747216565838869, -1.949062965297279, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26068", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.681894314046104, -1.927820289201634, 0.0 ], [ 84.886888183966349, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "26069", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.929373536157541, -2.01279099358412, 0.0 ], [ 84.929373536157541, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2606A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 85.747216565838869, -1.970305641392923, 0.0 ], [ 85.747216565838869, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "2606B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 85.784391249006234, -1.970305641392923, 0.0 ], [ 85.784391249006234, -1.927820289201634, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "432A3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.417035690756009, 4.165996824653384, 0.0 ], [ -21.439385678400711, 4.16599682465343, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "432A4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -17.75638572291049, 4.165996824653369, 0.0 ], [ -18.778735710555178, 4.165996824653384, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4959D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.404335690909662, 4.419996821583236, 0.0 ], [ -20.40491451551291, 4.426612817072409, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4959E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.40491451551291, 4.426612817072409, 0.0 ], [ -20.406633402029961, 4.433027788886498, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4959F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.406633402029961, 4.433027788886498, 0.0 ], [ -20.409440122963801, 4.439046821353065, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.409440122963801, 4.439046821353065, 0.0 ], [ -20.413249397519131, 4.444487029216391, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.413249397519131, 4.444487029216391, 0.0 ], [ -20.417945482816169, 4.449183114513427, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.417945482816169, 4.449183114513427, 0.0 ], [ -20.423385690679488, 4.452992389068755, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.423385690679488, 4.452992389068755, 0.0 ], [ -20.42940472314606, 4.455799110002599, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.42940472314606, 4.455799110002599, 0.0 ], [ -20.435819694960148, 4.457517996519653, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.435819694960148, 4.457517996519653, 0.0 ], [ -20.442435690449319, 4.458096821122894, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.442435690449319, 4.458096821122894, 0.0 ], [ -20.449051685938489, 4.457517996519653, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.449051685938489, 4.457517996519653, 0.0 ], [ -20.455466657752581, 4.455799110002599, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.455466657752581, 4.455799110002599, 0.0 ], [ -20.461485690219149, 4.452992389068755, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495A9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.461485690219149, 4.452992389068755, 0.0 ], [ -20.466925898082479, 4.449183114513427, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495AA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.466925898082479, 4.449183114513427, 0.0 ], [ -20.47162198337951, 4.444487029216391, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495AB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.47162198337951, 4.444487029216391, 0.0 ], [ -20.47543125793484, 4.439046821353065, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495AC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.47543125793484, 4.439046821353065, 0.0 ], [ -20.478237978868691, 4.433027788886498, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495AD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.478237978868691, 4.433027788886498, 0.0 ], [ -20.479956865385741, 4.426612817072409, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495AE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.479956865385741, 4.426612817072409, 0.0 ], [ -20.480535689988979, 4.419996821583236, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495AF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.480535689988979, 4.419996821583236, 0.0 ], [ -20.479956865385741, 4.413380826094064, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.479956865385741, 4.413380826094064, 0.0 ], [ -20.478237978868691, 4.406965854279975, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.478237978868691, 4.406965854279975, 0.0 ], [ -20.47543125793484, 4.400946821813407, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.47543125793484, 4.400946821813407, 0.0 ], [ -20.47162198337951, 4.395506613950081, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.47162198337951, 4.395506613950081, 0.0 ], [ -20.466925898082479, 4.390810528653045, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.466925898082479, 4.390810528653045, 0.0 ], [ -20.461485690219149, 4.387001254097716, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.461485690219149, 4.387001254097716, 0.0 ], [ -20.455466657752581, 4.384194533163873, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.455466657752581, 4.384194533163873, 0.0 ], [ -20.449051685938489, 4.382475646646819, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.449051685938489, 4.382475646646819, 0.0 ], [ -20.442435690449319, 4.381896822043578, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.442435690449319, 4.381896822043578, 0.0 ], [ -20.435819694960148, 4.382475646646819, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495B9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.435819694960148, 4.382475646646819, 0.0 ], [ -20.42940472314606, 4.384194533163873, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495BA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.42940472314606, 4.384194533163873, 0.0 ], [ -20.423385690679488, 4.387001254097716, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495BB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.423385690679488, 4.387001254097716, 0.0 ], [ -20.417945482816169, 4.390810528653045, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495BC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.417945482816169, 4.390810528653045, 0.0 ], [ -20.413249397519131, 4.395506613950081, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495BD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.413249397519131, 4.395506613950081, 0.0 ], [ -20.409440122963801, 4.400946821813407, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495BE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.409440122963801, 4.400946821813407, 0.0 ], [ -20.406633402029961, 4.406965854279975, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495BF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.406633402029961, 4.406965854279975, 0.0 ], [ -20.40491451551291, 4.413380826094064, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -20.40491451551291, 4.413380826094064, 0.0 ], [ -20.404335690909662, 4.419996821583236, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.715235711322769, 4.419996821583236, 0.0 ], [ -18.715814535926011, 4.426612817072409, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.715814535926011, 4.426612817072409, 0.0 ], [ -18.717533422443069, 4.433027788886497, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.717533422443069, 4.433027788886497, 0.0 ], [ -18.720340143376909, 4.439046821353064, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.720340143376909, 4.439046821353064, 0.0 ], [ -18.724149417932239, 4.444487029216389, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.724149417932239, 4.444487029216389, 0.0 ], [ -18.72884550322927, 4.449183114513425, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.72884550322927, 4.449183114513425, 0.0 ], [ -18.7342857110926, 4.452992389068753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.7342857110926, 4.452992389068753, 0.0 ], [ -18.740304743559172, 4.455799110002597, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.740304743559172, 4.455799110002597, 0.0 ], [ -18.746719715373249, 4.45751799651965, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495C9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.746719715373249, 4.45751799651965, 0.0 ], [ -18.753335710862419, 4.458096821122891, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495CA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.753335710862419, 4.458096821122891, 0.0 ], [ -18.7599517063516, 4.45751799651965, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495CB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.7599517063516, 4.45751799651965, 0.0 ], [ -18.766366678165689, 4.455799110002597, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495CC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.766366678165689, 4.455799110002597, 0.0 ], [ -18.77238571063225, 4.452992389068753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495CD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.77238571063225, 4.452992389068753, 0.0 ], [ -18.77782591849558, 4.449183114513425, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495CE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.77782591849558, 4.449183114513425, 0.0 ], [ -18.782522003792621, 4.444487029216389, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495CF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.782522003792621, 4.444487029216389, 0.0 ], [ -18.786331278347941, 4.439046821353064, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.786331278347941, 4.439046821353064, 0.0 ], [ -18.789137999281792, 4.433027788886497, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.789137999281792, 4.433027788886497, 0.0 ], [ -18.790856885798839, 4.426612817072409, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.790856885798839, 4.426612817072409, 0.0 ], [ -18.79143571040208, 4.419996821583236, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.79143571040208, 4.419996821583236, 0.0 ], [ -18.790856885798839, 4.413380826094064, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.790856885798839, 4.413380826094064, 0.0 ], [ -18.789137999281792, 4.406965854279976, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.789137999281792, 4.406965854279976, 0.0 ], [ -18.786331278347941, 4.400946821813408, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.786331278347941, 4.400946821813408, 0.0 ], [ -18.782522003792621, 4.395506613950083, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.782522003792621, 4.395506613950083, 0.0 ], [ -18.77782591849558, 4.390810528653047, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.77782591849558, 4.390810528653047, 0.0 ], [ -18.77238571063226, 4.38700125409772, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495D9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.77238571063226, 4.38700125409772, 0.0 ], [ -18.766366678165689, 4.384194533163876, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495DA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.766366678165689, 4.384194533163876, 0.0 ], [ -18.7599517063516, 4.382475646646822, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495DB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.7599517063516, 4.382475646646822, 0.0 ], [ -18.753335710862419, 4.381896822043581, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495DC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.753335710862419, 4.381896822043581, 0.0 ], [ -18.746719715373249, 4.382475646646822, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495DD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.746719715373249, 4.382475646646822, 0.0 ], [ -18.740304743559172, 4.384194533163876, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495DE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.740304743559172, 4.384194533163876, 0.0 ], [ -18.7342857110926, 4.38700125409772, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495DF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.7342857110926, 4.38700125409772, 0.0 ], [ -18.72884550322927, 4.390810528653047, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495E0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.72884550322927, 4.390810528653047, 0.0 ], [ -18.724149417932239, 4.395506613950083, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495E1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.724149417932239, 4.395506613950083, 0.0 ], [ -18.720340143376909, 4.400946821813408, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495E2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.720340143376909, 4.400946821813408, 0.0 ], [ -18.717533422443069, 4.406965854279976, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495E3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.717533422443069, 4.406965854279976, 0.0 ], [ -18.715814535926011, 4.413380826094064, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "495E4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ -18.715814535926011, 4.413380826094064, 0.0 ], [ -18.715235711322769, 4.419996821583236, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0BB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.51303684209099, -7.904757716969214, 0.0 ], [ 30.512540660141131, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0BC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.512540660141131, -7.899086331330694, 0.0 ], [ 30.51106719052904, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0BD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.51106719052904, -7.893587267874941, 0.0 ], [ 30.50866120388325, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0BE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.50866120388325, -7.888427612862397, 0.0 ], [ 30.505395804890519, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0BF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.505395804890519, -7.883764139799708, 0.0 ], [ 30.501370211046861, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.501370211046861, -7.87973854595605, 0.0 ], [ 30.496706737984169, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.496706737984169, -7.876473146963316, 0.0 ], [ 30.491547082971621, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.491547082971621, -7.87406716031753, 0.0 ], [ 30.48604801951587, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.48604801951587, -7.872593690705432, 0.0 ], [ 30.480376633877349, -7.872097508755579, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.480376633877349, -7.872097508755579, 0.0 ], [ 30.474705248238831, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.474705248238831, -7.872593690705432, 0.0 ], [ 30.469206184783079, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.469206184783079, -7.87406716031753, 0.0 ], [ 30.464046529770538, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.464046529770538, -7.876473146963316, 0.0 ], [ 30.459383056707839, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.459383056707839, -7.87973854595605, 0.0 ], [ 30.455357462864178, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0C9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.455357462864178, -7.883764139799708, 0.0 ], [ 30.452092063871451, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0CA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.452092063871451, -7.888427612862397, 0.0 ], [ 30.44968607722566, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0CB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.44968607722566, -7.893587267874941, 0.0 ], [ 30.44821260761357, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0CC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.44821260761357, -7.899086331330694, 0.0 ], [ 30.447716425663721, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0CD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.447716425663721, -7.904757716969214, 0.0 ], [ 30.44821260761357, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0CE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.44821260761357, -7.910429102607735, 0.0 ], [ 30.44968607722566, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0CF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.44968607722566, -7.915928166063488, 0.0 ], [ 30.452092063871451, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.452092063871451, -7.921087821076032, 0.0 ], [ 30.455357462864178, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.455357462864178, -7.925751294138721, 0.0 ], [ 30.459383056707839, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.459383056707839, -7.929776887982378, 0.0 ], [ 30.464046529770538, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.464046529770538, -7.933042286975112, 0.0 ], [ 30.469206184783079, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.469206184783079, -7.935448273620899, 0.0 ], [ 30.474705248238831, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.474705248238831, -7.936921743232995, 0.0 ], [ 30.480376633877349, -7.93741792518285, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.480376633877349, -7.93741792518285, 0.0 ], [ 30.48604801951587, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.48604801951587, -7.936921743232995, 0.0 ], [ 30.491547082971621, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.491547082971621, -7.935448273620899, 0.0 ], [ 30.496706737984169, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0D9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.496706737984169, -7.933042286975112, 0.0 ], [ 30.501370211046861, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0DA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.501370211046861, -7.929776887982378, 0.0 ], [ 30.505395804890519, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0DB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.505395804890519, -7.925751294138721, 0.0 ], [ 30.50866120388325, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0DC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.50866120388325, -7.921087821076032, 0.0 ], [ 30.51106719052904, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0DD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.51106719052904, -7.915928166063488, 0.0 ], [ 30.512540660141131, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0DE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.512540660141131, -7.910429102607735, 0.0 ], [ 30.51303684209099, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0DF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.265557619979468, -7.904757716969214, 0.0 ], [ 32.265061438029612, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.265061438029612, -7.899086331330694, 0.0 ], [ 32.263587968417518, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.263587968417518, -7.893587267874941, 0.0 ], [ 32.261181981771728, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.261181981771728, -7.888427612862397, 0.0 ], [ 32.257916582779004, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.257916582779004, -7.883764139799708, 0.0 ], [ 32.253890988935339, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.253890988935339, -7.87973854595605, 0.0 ], [ 32.249227515872647, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.249227515872647, -7.876473146963316, 0.0 ], [ 32.244067860860113, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.244067860860113, -7.87406716031753, 0.0 ], [ 32.238568797404362, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.238568797404362, -7.872593690705432, 0.0 ], [ 32.232897411765833, -7.872097508755579, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.232897411765833, -7.872097508755579, 0.0 ], [ 32.227226026127298, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0E9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.227226026127298, -7.872593690705432, 0.0 ], [ 32.221726962671553, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0EA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.221726962671553, -7.87406716031753, 0.0 ], [ 32.216567307659012, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0EB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.216567307659012, -7.876473146963316, 0.0 ], [ 32.21190383459632, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0EC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.21190383459632, -7.87973854595605, 0.0 ], [ 32.207878240752663, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0ED", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.207878240752663, -7.883764139799708, 0.0 ], [ 32.204612841759932, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0EE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.204612841759932, -7.888427612862397, 0.0 ], [ 32.202206855114142, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0EF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.202206855114142, -7.893587267874941, 0.0 ], [ 32.200733385502048, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.200733385502048, -7.899086331330694, 0.0 ], [ 32.200237203552192, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.200237203552192, -7.904757716969214, 0.0 ], [ 32.200733385502048, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.200733385502048, -7.910429102607735, 0.0 ], [ 32.202206855114142, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.202206855114142, -7.915928166063488, 0.0 ], [ 32.204612841759932, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.204612841759932, -7.921087821076032, 0.0 ], [ 32.207878240752663, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.207878240752663, -7.925751294138721, 0.0 ], [ 32.21190383459632, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.21190383459632, -7.929776887982378, 0.0 ], [ 32.216567307659012, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.216567307659012, -7.933042286975112, 0.0 ], [ 32.221726962671553, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.221726962671553, -7.935448273620899, 0.0 ], [ 32.227226026127298, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0F9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.227226026127298, -7.936921743232995, 0.0 ], [ 32.232897411765833, -7.93741792518285, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0FA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.232897411765833, -7.93741792518285, 0.0 ], [ 32.238568797404362, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0FB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.238568797404362, -7.936921743232995, 0.0 ], [ 32.244067860860113, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0FC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.244067860860113, -7.935448273620899, 0.0 ], [ 32.249227515872647, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0FD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.249227515872647, -7.933042286975112, 0.0 ], [ 32.253890988935339, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0FE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.253890988935339, -7.929776887982378, 0.0 ], [ 32.257916582779004, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A0FF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.257916582779004, -7.925751294138721, 0.0 ], [ 32.261181981771728, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A100", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.261181981771728, -7.921087821076032, 0.0 ], [ 32.263587968417518, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A101", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.263587968417518, -7.915928166063488, 0.0 ], [ 32.265061438029612, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A102", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 32.265061438029612, -7.910429102607735, 0.0 ], [ 32.265557619979468, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A103", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.9405405845215, -7.904757716969214, 0.0 ], [ 35.940044402571637, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A104", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.940044402571637, -7.899086331330694, 0.0 ], [ 35.938570932959543, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A105", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.938570932959543, -7.893587267874941, 0.0 ], [ 35.936164946313752, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A106", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.936164946313752, -7.888427612862397, 0.0 ], [ 35.932899547321021, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A107", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.932899547321021, -7.883764139799708, 0.0 ], [ 35.928873953477357, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A108", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.928873953477357, -7.87973854595605, 0.0 ], [ 35.924210480414679, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A109", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.924210480414679, -7.876473146963316, 0.0 ], [ 35.919050825402131, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A10A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.919050825402131, -7.87406716031753, 0.0 ], [ 35.91355176194638, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A10B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.91355176194638, -7.872593690705432, 0.0 ], [ 35.907880376307851, -7.872097508755579, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A10C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.907880376307851, -7.872097508755579, 0.0 ], [ 35.90220899066933, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A10D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.90220899066933, -7.872593690705432, 0.0 ], [ 35.896709927213578, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A10E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.896709927213578, -7.87406716031753, 0.0 ], [ 35.891550272201037, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A10F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.891550272201037, -7.876473146963316, 0.0 ], [ 35.886886799138352, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A110", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.886886799138352, -7.87973854595605, 0.0 ], [ 35.882861205294688, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A111", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.882861205294688, -7.883764139799708, 0.0 ], [ 35.879595806301957, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A112", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.879595806301957, -7.888427612862397, 0.0 ], [ 35.877189819656166, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A113", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.877189819656166, -7.893587267874941, 0.0 ], [ 35.875716350044073, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A114", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.875716350044073, -7.899086331330694, 0.0 ], [ 35.875220168094224, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A115", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.875220168094224, -7.904757716969214, 0.0 ], [ 35.875716350044073, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A116", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.875716350044073, -7.910429102607735, 0.0 ], [ 35.877189819656166, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A117", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.877189819656166, -7.915928166063488, 0.0 ], [ 35.879595806301957, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A118", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.879595806301957, -7.921087821076032, 0.0 ], [ 35.882861205294688, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A119", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.882861205294688, -7.925751294138721, 0.0 ], [ 35.886886799138352, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A11A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.886886799138352, -7.929776887982378, 0.0 ], [ 35.891550272201037, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A11B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.891550272201037, -7.933042286975112, 0.0 ], [ 35.896709927213578, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A11C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.896709927213578, -7.935448273620899, 0.0 ], [ 35.90220899066933, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A11D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.90220899066933, -7.936921743232995, 0.0 ], [ 35.907880376307851, -7.93741792518285, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A11E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.907880376307851, -7.93741792518285, 0.0 ], [ 35.91355176194638, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A11F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.91355176194638, -7.936921743232995, 0.0 ], [ 35.919050825402131, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A120", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.919050825402131, -7.935448273620899, 0.0 ], [ 35.924210480414679, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A121", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.924210480414679, -7.933042286975112, 0.0 ], [ 35.928873953477357, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A122", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.928873953477357, -7.929776887982378, 0.0 ], [ 35.932899547321021, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A123", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.932899547321021, -7.925751294138721, 0.0 ], [ 35.936164946313752, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A124", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.936164946313752, -7.921087821076032, 0.0 ], [ 35.938570932959543, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A125", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.938570932959543, -7.915928166063488, 0.0 ], [ 35.940044402571637, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A126", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 35.940044402571637, -7.910429102607735, 0.0 ], [ 35.9405405845215, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A127", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.188019806633008, -7.904757716969214, 0.0 ], [ 34.187523624683152, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A128", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.187523624683152, -7.899086331330694, 0.0 ], [ 34.186050155071058, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A129", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.186050155071058, -7.893587267874941, 0.0 ], [ 34.183644168425268, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A12A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.183644168425268, -7.888427612862397, 0.0 ], [ 34.180378769432537, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A12B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.180378769432537, -7.883764139799708, 0.0 ], [ 34.176353175588879, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A12C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.176353175588879, -7.87973854595605, 0.0 ], [ 34.171689702526201, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A12D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.171689702526201, -7.876473146963316, 0.0 ], [ 34.166530047513653, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A12E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.166530047513653, -7.87406716031753, 0.0 ], [ 34.161030984057902, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A12F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.161030984057902, -7.872593690705432, 0.0 ], [ 34.155359598419381, -7.872097508755579, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A130", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.155359598419381, -7.872097508755579, 0.0 ], [ 34.149688212780852, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A131", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.149688212780852, -7.872593690705432, 0.0 ], [ 34.144189149325101, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A132", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.144189149325101, -7.87406716031753, 0.0 ], [ 34.13902949431256, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A133", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.13902949431256, -7.876473146963316, 0.0 ], [ 34.134366021249868, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A134", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.134366021249868, -7.87973854595605, 0.0 ], [ 34.13034042740621, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A135", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.13034042740621, -7.883764139799708, 0.0 ], [ 34.127075028413479, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A136", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.127075028413479, -7.888427612862397, 0.0 ], [ 34.124669041767689, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A137", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.124669041767689, -7.893587267874941, 0.0 ], [ 34.123195572155602, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A138", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.123195572155602, -7.899086331330694, 0.0 ], [ 34.122699390205739, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A139", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.122699390205739, -7.904757716969214, 0.0 ], [ 34.123195572155602, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A13A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.123195572155602, -7.910429102607735, 0.0 ], [ 34.124669041767689, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A13B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.124669041767689, -7.915928166063488, 0.0 ], [ 34.127075028413479, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A13C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.127075028413479, -7.921087821076032, 0.0 ], [ 34.13034042740621, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A13D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.13034042740621, -7.925751294138721, 0.0 ], [ 34.134366021249868, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A13E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.134366021249868, -7.929776887982378, 0.0 ], [ 34.13902949431256, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A13F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.13902949431256, -7.933042286975112, 0.0 ], [ 34.144189149325101, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A140", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.144189149325101, -7.935448273620899, 0.0 ], [ 34.149688212780852, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A141", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.149688212780852, -7.936921743232995, 0.0 ], [ 34.155359598419381, -7.93741792518285, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A142", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.155359598419381, -7.93741792518285, 0.0 ], [ 34.161030984057902, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A143", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.161030984057902, -7.936921743232995, 0.0 ], [ 34.166530047513653, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A144", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.166530047513653, -7.935448273620899, 0.0 ], [ 34.171689702526201, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A145", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.171689702526201, -7.933042286975112, 0.0 ], [ 34.176353175588879, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A146", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.176353175588879, -7.929776887982378, 0.0 ], [ 34.180378769432537, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A147", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.180378769432537, -7.925751294138721, 0.0 ], [ 34.183644168425268, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A148", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.183644168425268, -7.921087821076032, 0.0 ], [ 34.186050155071058, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A149", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.186050155071058, -7.915928166063488, 0.0 ], [ 34.187523624683152, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A14A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 34.187523624683152, -7.910429102607735, 0.0 ], [ 34.188019806633008, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A14B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.265808103733562, -7.904757716969214, 0.0 ], [ 81.265311921783706, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A14C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.265311921783706, -7.899086331330694, 0.0 ], [ 81.263838452171598, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A14D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.263838452171598, -7.893587267874941, 0.0 ], [ 81.261432465525829, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A14E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.261432465525829, -7.888427612862397, 0.0 ], [ 81.258167066533076, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A14F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.258167066533076, -7.883764139799708, 0.0 ], [ 81.254141472689426, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A150", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.254141472689426, -7.87973854595605, 0.0 ], [ 81.249477999626734, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A151", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.249477999626734, -7.876473146963316, 0.0 ], [ 81.2443183446142, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A152", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.2443183446142, -7.87406716031753, 0.0 ], [ 81.238819281158442, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A153", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.238819281158442, -7.872593690705432, 0.0 ], [ 81.23314789551992, -7.872097508755579, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A154", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.23314789551992, -7.872097508755579, 0.0 ], [ 81.227476509881413, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A155", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.227476509881413, -7.872593690705432, 0.0 ], [ 81.22197744642564, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A156", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.22197744642564, -7.87406716031753, 0.0 ], [ 81.216817791413106, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A157", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.216817791413106, -7.876473146963316, 0.0 ], [ 81.212154318350414, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A158", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.212154318350414, -7.87973854595605, 0.0 ], [ 81.208128724506764, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A159", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.208128724506764, -7.883764139799708, 0.0 ], [ 81.204863325514026, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A15A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.204863325514026, -7.888427612862397, 0.0 ], [ 81.202457338868228, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A15B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.202457338868228, -7.893587267874941, 0.0 ], [ 81.200983869256135, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A15C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.200983869256135, -7.899086331330694, 0.0 ], [ 81.200487687306293, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A15D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.200487687306293, -7.904757716969214, 0.0 ], [ 81.200983869256135, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A15E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.200983869256135, -7.910429102607735, 0.0 ], [ 81.202457338868228, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A15F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.202457338868228, -7.915928166063488, 0.0 ], [ 81.204863325514026, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A160", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.204863325514026, -7.921087821076032, 0.0 ], [ 81.208128724506764, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A161", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.208128724506764, -7.925751294138721, 0.0 ], [ 81.212154318350414, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A162", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.212154318350414, -7.929776887982378, 0.0 ], [ 81.216817791413106, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A163", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.216817791413106, -7.933042286975112, 0.0 ], [ 81.22197744642564, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A164", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.22197744642564, -7.935448273620899, 0.0 ], [ 81.227476509881413, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A165", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.227476509881413, -7.936921743232995, 0.0 ], [ 81.23314789551992, -7.93741792518285, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A166", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.23314789551992, -7.93741792518285, 0.0 ], [ 81.238819281158442, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A167", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.238819281158442, -7.936921743232995, 0.0 ], [ 81.2443183446142, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A168", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.2443183446142, -7.935448273620899, 0.0 ], [ 81.249477999626734, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A169", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.249477999626734, -7.933042286975112, 0.0 ], [ 81.254141472689426, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A16A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.254141472689426, -7.929776887982378, 0.0 ], [ 81.258167066533076, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A16B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.258167066533076, -7.925751294138721, 0.0 ], [ 81.261432465525829, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A16C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.261432465525829, -7.921087821076032, 0.0 ], [ 81.263838452171598, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A16D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.263838452171598, -7.915928166063488, 0.0 ], [ 81.265311921783706, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A16E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 81.265311921783706, -7.910429102607735, 0.0 ], [ 81.265808103733562, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A16F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.018328881622125, -7.904757716969214, 0.0 ], [ 83.017832699672283, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A170", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.017832699672283, -7.899086331330694, 0.0 ], [ 83.016359230060189, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A171", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.016359230060189, -7.893587267874941, 0.0 ], [ 83.013953243414406, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A172", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.013953243414406, -7.888427612862397, 0.0 ], [ 83.010687844421653, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A173", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.010687844421653, -7.883764139799708, 0.0 ], [ 83.006662250578003, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A174", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.006662250578003, -7.87973854595605, 0.0 ], [ 83.001998777515311, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A175", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.001998777515311, -7.876473146963316, 0.0 ], [ 82.996839122502777, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A176", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.996839122502777, -7.87406716031753, 0.0 ], [ 82.991340059047019, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A177", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.991340059047019, -7.872593690705432, 0.0 ], [ 82.985668673408497, -7.872097508755579, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A178", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.985668673408497, -7.872097508755579, 0.0 ], [ 82.979997287769976, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A179", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.979997287769976, -7.872593690705432, 0.0 ], [ 82.974498224314218, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A17A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.974498224314218, -7.87406716031753, 0.0 ], [ 82.969338569301684, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A17B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.969338569301684, -7.876473146963316, 0.0 ], [ 82.964675096239006, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A17C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.964675096239006, -7.87973854595605, 0.0 ], [ 82.960649502395341, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A17D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.960649502395341, -7.883764139799708, 0.0 ], [ 82.957384103402603, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A17E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.957384103402603, -7.888427612862397, 0.0 ], [ 82.954978116756806, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A17F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.954978116756806, -7.893587267874941, 0.0 ], [ 82.953504647144726, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A180", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.953504647144726, -7.899086331330694, 0.0 ], [ 82.953008465194856, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A181", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.953008465194856, -7.904757716969214, 0.0 ], [ 82.953504647144726, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A182", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.953504647144726, -7.910429102607735, 0.0 ], [ 82.954978116756806, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A183", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.954978116756806, -7.915928166063488, 0.0 ], [ 82.957384103402603, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A184", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.957384103402603, -7.921087821076032, 0.0 ], [ 82.960649502395341, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A185", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.960649502395341, -7.925751294138721, 0.0 ], [ 82.964675096239006, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A186", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.964675096239006, -7.929776887982378, 0.0 ], [ 82.969338569301684, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A187", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.969338569301684, -7.933042286975112, 0.0 ], [ 82.974498224314218, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A188", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.974498224314218, -7.935448273620899, 0.0 ], [ 82.979997287769976, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A189", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.979997287769976, -7.936921743232995, 0.0 ], [ 82.985668673408497, -7.93741792518285, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A18A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.985668673408497, -7.93741792518285, 0.0 ], [ 82.991340059047019, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A18B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.991340059047019, -7.936921743232995, 0.0 ], [ 82.996839122502777, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A18C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 82.996839122502777, -7.935448273620899, 0.0 ], [ 83.001998777515311, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A18D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.001998777515311, -7.933042286975112, 0.0 ], [ 83.006662250578003, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A18E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.006662250578003, -7.929776887982378, 0.0 ], [ 83.010687844421668, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A18F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.010687844421668, -7.925751294138721, 0.0 ], [ 83.013953243414406, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A190", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.013953243414406, -7.921087821076032, 0.0 ], [ 83.016359230060189, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A191", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.016359230060189, -7.915928166063488, 0.0 ], [ 83.017832699672283, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A192", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 83.017832699672283, -7.910429102607735, 0.0 ], [ 83.018328881622125, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A193", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.693311846164164, -7.904757716969214, 0.0 ], [ 86.692815664214294, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A194", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.692815664214294, -7.899086331330694, 0.0 ], [ 86.691342194602214, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A195", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.691342194602214, -7.893587267874941, 0.0 ], [ 86.688936207956417, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A196", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.688936207956417, -7.888427612862397, 0.0 ], [ 86.685670808963678, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A197", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.685670808963678, -7.883764139799708, 0.0 ], [ 86.681645215120014, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A198", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.681645215120014, -7.87973854595605, 0.0 ], [ 86.676981742057336, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A199", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.676981742057336, -7.876473146963316, 0.0 ], [ 86.671822087044788, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A19A", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.671822087044788, -7.87406716031753, 0.0 ], [ 86.666323023589044, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A19B", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.666323023589044, -7.872593690705432, 0.0 ], [ 86.660651637950508, -7.872097508755579, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A19C", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.660651637950508, -7.872097508755579, 0.0 ], [ 86.654980252311987, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A19D", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.654980252311987, -7.872593690705432, 0.0 ], [ 86.649481188856228, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A19E", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.649481188856228, -7.87406716031753, 0.0 ], [ 86.644321533843708, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A19F", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.644321533843708, -7.876473146963316, 0.0 ], [ 86.639658060781017, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.639658060781017, -7.87973854595605, 0.0 ], [ 86.635632466937366, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.635632466937366, -7.883764139799708, 0.0 ], [ 86.632367067944614, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.632367067944614, -7.888427612862397, 0.0 ], [ 86.629961081298831, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.629961081298831, -7.893587267874941, 0.0 ], [ 86.628487611686737, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.628487611686737, -7.899086331330694, 0.0 ], [ 86.627991429736895, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.627991429736895, -7.904757716969214, 0.0 ], [ 86.628487611686737, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.628487611686737, -7.910429102607735, 0.0 ], [ 86.629961081298831, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.629961081298831, -7.915928166063488, 0.0 ], [ 86.632367067944614, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.632367067944614, -7.921087821076032, 0.0 ], [ 86.635632466937366, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1A9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.635632466937366, -7.925751294138721, 0.0 ], [ 86.639658060781017, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1AA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.639658060781017, -7.929776887982378, 0.0 ], [ 86.644321533843708, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1AB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.644321533843708, -7.933042286975112, 0.0 ], [ 86.649481188856228, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1AC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.649481188856228, -7.935448273620899, 0.0 ], [ 86.654980252311987, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1AD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.654980252311987, -7.936921743232995, 0.0 ], [ 86.660651637950508, -7.93741792518285, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1AE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.660651637950508, -7.93741792518285, 0.0 ], [ 86.666323023589044, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1AF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.666323023589044, -7.936921743232995, 0.0 ], [ 86.671822087044788, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.671822087044788, -7.935448273620899, 0.0 ], [ 86.676981742057336, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.676981742057336, -7.933042286975112, 0.0 ], [ 86.681645215120014, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.681645215120014, -7.929776887982378, 0.0 ], [ 86.685670808963692, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.685670808963692, -7.925751294138721, 0.0 ], [ 86.688936207956417, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.688936207956417, -7.921087821076032, 0.0 ], [ 86.691342194602214, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.691342194602214, -7.915928166063488, 0.0 ], [ 86.692815664214294, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 86.692815664214294, -7.910429102607735, 0.0 ], [ 86.693311846164164, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.940791068275573, -7.904757716969214, 0.0 ], [ 84.940294886325731, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.940294886325731, -7.899086331330694, 0.0 ], [ 84.938821416713637, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1B9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.938821416713637, -7.893587267874941, 0.0 ], [ 84.936415430067854, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1BA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.936415430067854, -7.888427612862397, 0.0 ], [ 84.933150031075115, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1BB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.933150031075115, -7.883764139799708, 0.0 ], [ 84.929124437231451, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1BC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.929124437231451, -7.87973854595605, 0.0 ], [ 84.924460964168745, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1BD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.924460964168745, -7.876473146963316, 0.0 ], [ 84.919301309156225, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1BE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.919301309156225, -7.87406716031753, 0.0 ], [ 84.913802245700467, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1BF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.913802245700467, -7.872593690705432, 0.0 ], [ 84.908130860061945, -7.872097508755579, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.908130860061945, -7.872097508755579, 0.0 ], [ 84.902459474423438, -7.872593690705432, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.902459474423438, -7.872593690705432, 0.0 ], [ 84.896960410967665, -7.87406716031753, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.896960410967665, -7.87406716031753, 0.0 ], [ 84.891800755955131, -7.876473146963316, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.891800755955131, -7.876473146963316, 0.0 ], [ 84.887137282892439, -7.87973854595605, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.887137282892439, -7.87973854595605, 0.0 ], [ 84.883111689048775, -7.883764139799708, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.883111689048775, -7.883764139799708, 0.0 ], [ 84.879846290056051, -7.888427612862397, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.879846290056051, -7.888427612862397, 0.0 ], [ 84.877440303410253, -7.893587267874941, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.877440303410253, -7.893587267874941, 0.0 ], [ 84.875966833798159, -7.899086331330694, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.875966833798159, -7.899086331330694, 0.0 ], [ 84.875470651848318, -7.904757716969214, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1C9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.875470651848318, -7.904757716969214, 0.0 ], [ 84.875966833798159, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1CA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.875966833798159, -7.910429102607735, 0.0 ], [ 84.877440303410253, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1CB", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.877440303410253, -7.915928166063488, 0.0 ], [ 84.879846290056051, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1CC", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.879846290056051, -7.921087821076032, 0.0 ], [ 84.883111689048775, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1CD", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.883111689048775, -7.925751294138721, 0.0 ], [ 84.887137282892439, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1CE", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.887137282892439, -7.929776887982378, 0.0 ], [ 84.891800755955131, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1CF", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.891800755955131, -7.933042286975112, 0.0 ], [ 84.896960410967665, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D0", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.896960410967665, -7.935448273620899, 0.0 ], [ 84.902459474423438, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D1", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.902459474423438, -7.936921743232995, 0.0 ], [ 84.908130860061945, -7.93741792518285, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D2", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.908130860061945, -7.93741792518285, 0.0 ], [ 84.913802245700467, -7.936921743232995, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D3", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.913802245700467, -7.936921743232995, 0.0 ], [ 84.919301309156225, -7.935448273620899, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D4", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.919301309156225, -7.935448273620899, 0.0 ], [ 84.924460964168745, -7.933042286975112, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D5", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.924460964168745, -7.933042286975112, 0.0 ], [ 84.929124437231451, -7.929776887982378, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D6", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.929124437231451, -7.929776887982378, 0.0 ], [ 84.933150031075115, -7.925751294138721, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D7", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.933150031075115, -7.925751294138721, 0.0 ], [ 84.936415430067854, -7.921087821076032, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D8", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.936415430067854, -7.921087821076032, 0.0 ], [ 84.938821416713637, -7.915928166063488, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1D9", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.938821416713637, -7.915928166063488, 0.0 ], [ 84.940294886325731, -7.910429102607735, 0.0 ] ] } }
+,
+{ "type": "Feature", "properties": { "Layer": "GPART1", "SubClasses": "AcDbEntity:AcDbLine", "ExtendedEntity": null, "Linetype": null, "EntityHandle": "4A1DA", "Text": null }, "geometry": { "type": "LineString", "coordinates": [ [ 84.940294886325731, -7.910429102607735, 0.0 ], [ 84.940791068275573, -7.904757716969214, 0.0 ] ] } }
+
+]
+}
