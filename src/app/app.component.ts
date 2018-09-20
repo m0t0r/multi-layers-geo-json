@@ -29,6 +29,7 @@ export class AppComponent implements OnInit {
       minZoom: -2,
       maxZoom: 7,
       crs: L.CRS.Simple,
+      renderer: L.canvas(),
       zoomControl: true,
       attributionControl: false
     });
