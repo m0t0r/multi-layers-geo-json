@@ -75,5 +75,12 @@ export class AppComponent implements OnInit {
         };
       }, {})
     ).addTo(this.map);
+
+    const originMarker = L.circle([0, 0], {
+      color: 'red',
+      radius: 1
+    }).addTo(this.map);
+
+    originMarker.bindTooltip('Origin: [0,0]');
   }
 }
